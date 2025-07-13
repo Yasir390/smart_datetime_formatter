@@ -3,12 +3,12 @@
 A powerful and developer-friendly `DateTime` formatter package for Flutter and Dart.  
 Built on top of the `intl` package with added features like:
 
- Enum-based date format patterns  
- Built-in localization (English, Bangla, Arabic)  
- Relative time (`5 minutes ago`, `গতকাল`, `أمس`)  
- Date range formatting (e.g. `12–14 July 2025`)  
- Extension methods on `DateTime` for clean usage  
- Pub.dev ready and production-tested  
+- Enum-based date format patterns  
+- Built-in localization (English, Bangla, Arabic)  
+- Relative time (`5 minutes ago`, `গতকাল`, `أمس`)  
+- Date range formatting (e.g. `12–14 July 2025`)  
+- Extension methods on `DateTime` for clean usage  
+- Pub.dev ready and production-tested  
 
 ---
 
@@ -24,7 +24,7 @@ Built on top of the `intl` package with added features like:
 
 ---
 
-## 🛠 Installation
+## Installation
 
 Add to your `pubspec.yaml`:
 
