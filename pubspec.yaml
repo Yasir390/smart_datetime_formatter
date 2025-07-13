@@ -1,0 +1,17 @@
+name: smart_datetime_formatter
+description: A powerful DateTime formatter with enum patterns, localization, and relative time support.
+version: 0.0.1
+homepage: https://github.com/Yasir390/smart_datetime_formatter
+repository: https://github.com/Yasir390/smart_datetime_formatter
+issue_tracker: https://github.com/Yasir390/smart_datetime_formatter/issues
+license: MIT
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
